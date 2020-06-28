@@ -1,2 +1,2 @@
 # Corpus
-Corpus for use
+SBCSAE Santa Barbara Corpus of Spoken American English
