@@ -751,7 +751,7 @@
 749,they're peas,1,re,"4,0"
 750,what else,0,None,"0,0"
 751,no,0,None,0
-752,Humpty Dumpty,0,None,0
+752,Humpty Dumpty,0,None,"0,0"
 753,what did Humpty Dumpty do,2,did,"0,2,0,0,1"
 754,he sat on the wall,2,sat,"0,2,0,0,0"
 755,all the king's horses and all the king's,0,None,"0,0,0,0,0,0,0,0"
@@ -788,7 +788,7 @@
 786,he can't march,1,can't,"0,7,3"
 787,no he can't march,1,can't,"0,0,7,3"
 788,no,0,None,0
-789,Green jeans,0,None,0
+789,Green jeans,0,None,"0,0"
 790,yes Mr Green jeans can march,1,can,"0,0,0,0,7,0"
 791,Bambi can't march,1,can't,"0,7,3"
 792,who,0,None,0
@@ -974,7 +974,7 @@
 972,what is that,1,is,"0,1,0"
 973,this,0,None,0
 974,why don't you show it to Ursula,1,don't,"0,1,0,3,0,0,0"
-975,yes Donald Duck,0,None,"0,0"
+975,yes Donald Duck,0,None,"0,0,0"
 976,who is it,1,is,"0,1,0"
 977,show it to Ursula,1,show,"1,0,0,0"
 978,Bambi,0,None,0
@@ -1105,7 +1105,7 @@
 1103,door,0,None,0
 1104,Doctor Dan at the Circus,0,None,"0,0,0,0,0"
 1105,don't you think,1,don't,"1,0,3"
-1106,you should pick it up,1,should,"0,7,4,0"
+1106,you should pick it up,1,should,"0,7,4,0,0"
 1107,and put it in the basket,1,put,"0,1,0,0,0,0"
 1108,make Cromer do it,1,make,"1,0,3,0"
 1109,you pick doc Dan up yourself,1,pick,"0,1,0,0,0,0"
@@ -1555,7 +1555,7 @@
 1553,is that yellow,1,is,"1,0,0"
 1554,no that's not yellow,1,s,"0,4,0,0"
 1555,one part is black,1,is,"0,0,1,0"
-1556,and the other is silver,1,is,"0,0,0,1"
+1556,and the other is silver,1,is,"0,0,0,1,0"
 1557,the papers are yellow,1,are,"0,0,1,0"
 1558,is that yours,1,is,"1,0,0"
 1559,who is Adam,1,is,"0,1,0"
@@ -1712,7 +1712,7 @@
 1710,that's right,0,None,"0,0"
 1711,you don't play with matches either do you,1,don't,"0,1,3,0,0,0,1,0"
 1712,yeah you dropped it,2,dropped,"0,0,2,0"
-1713,ups a daisy,0,None,0
+1713,ups a daisy,0,None,"0,0,0"
 1714,what are you doing,1,are,"0,1,0,4"
 1715,three,0,None,0
 1716,well what happened to five six seven,2,happened,"0,0,2,0,0,0,0"
@@ -2120,7 +2120,7 @@
 2118,you're going to put it together,1,re,"4,5,0,3,0,0"
 2119,what are you going to do now,1,are,"0,1,0,5,0,3,0"
 2120,oh you dropped your mitten,2,dropped,"0,0,2,0,0"
-2121,sleeping in the bed,0,None,"5,0,0"
+2121,sleeping in the bed,0,None,"0,0"
 2122,Adam don't put that back there,1,don't,"0,1,3,0,0,0"
 2123,take your wrench out,1,take,"1,0,0,0"
 2124,wrench,0,None,0
@@ -2157,7 +2157,7 @@
 2155,Adam,0,None,0
 2156,you imp,0,None,"0,0"
 2157,come on choo choo,1,come,"1,0,0,0"
-2158,choo choo,0,None,0
+2158,choo choo,0,None,"0,0"
 2159,oh does it stop for a street light,1,does,"0,1,0,3,0,0,0,0"
 2160,nine four,0,None,"0,0"
 2161,no thank you,1,thank,"0,1,0"
@@ -2574,7 +2574,7 @@
 2572,you blow,1,blow,"0,1"
 2573,no Adam,0,None,"0,0"
 2574,you blow it,1,blow,"0,1,0"
-2575,now put it down,1,put,"0,1,0"
+2575,now put it down,1,put,"0,1,0,0"
 2576,what,0,None,0
 2577,I don't know,1,don't,"0,1,3"
 2578,afternoon,0,None,0
@@ -2860,7 +2860,7 @@
 2858,wheels in the air,0,None,"0,0,0,0"
 2859,now what do you hafta do,1,do,"0,0,1,0,3,3"
 2860,trash truck broken,0,None,"0,0,0"
-2861,what kind of truck is broken,1,is,"0,0,0,1,0"
+2861,what kind of truck is broken,1,is,"0,7,0,3,1,0,0"
 2862,this truck,0,None,"0,0"
 2863,you hafta take one off to put it on,1,hafta,"0,1,3,0,0,0,3,0,0"
 2864,on,0,None,0
@@ -3188,7 +3188,7 @@
 3186,oh doggie,0,None,"0,0"
 3187,well get on the floor with your doggie,1,get,"0,1,0,0,0,0,0,0"
 3188,Adam,0,None,0
-3189,well here come here and cut your paper,1,come,"0,0,1,0,0,1,0"
+3189,well here come here and cut your paper,1,come,"0,0,1,0,0,1,0,0"
 3190,cut your paper,1,cut,"1,0,0"
 3191,use the other one scissors,1,use,"1,0,0,0,0"
 3192,he means use the other hand for scissors,1,means,"0,1,1,0,0,0,0,0"
@@ -3217,7 +3217,7 @@
 3215,no use this finger,1,use,"0,1,0,0"
 3216,what shall we use the paper for,1,shall,"0,7,0,4,0,0,0"
 3217,you don't know,1,don't,"0,1,3"
-3218,you don't know what to use then why are you giving us the paper,1,don't,"0,1,3,0,0,3,0,0,1,0,5,0,0"
+3218,you don't know what to use then why are you giving us the paper,1,don't,"0,1,3,0,0,3,0,0,1,0,5,0,0,0"
 3219,then why are you giving us the paper,1,are,"0,0,1,0,5,0,0,0"
 3220,oh giving dollars,0,None,"0,5,0"
 3221,oh that is Ursula's you give it to Ursula,1,is,"0,0,1,0,0,1,0,0,0"
@@ -3255,7 +3255,7 @@
 3253,how can she write if you take all of her pencils,1,can,"0,7,0,3,0,0,1,0,0,0,0"
 3254,if you take all of her pencils,1,take,"0,0,1,0,0,0,0"
 3255,no Adam,0,None,"0,0"
-3256,playing the piano,0,None,"5,0"
+3256,playing the piano,0,None,"5,0,0"
 3257,you play the piano with your fingers,1,play,"0,1,0,0,0,0,0"
 3258,what are you doing now,1,are,"0,1,0,5,0"
 3259,Adam,0,None,0
@@ -3492,7 +3492,7 @@
 3490,yes it needs a bib,1,needs,"0,0,1,0,0"
 3491,why does the microphone need a bib,1,does,"0,1,0,0,3,0,0"
 3492,what are you doing,1,are,"0,1,0,5"
-3493,I why are you putting it in there,1,are,"0,0,1,5,0,0,0"
+3493,I why are you putting it in there,1,are,"0,0,1,0,5,0,0,0"
 3494,what is that,1,is,"0,1,0"
 3495,that's a what,1,s,"4,0,0"
 3496,a trash truck,0,None,"0,0,0"
@@ -3555,7 +3555,7 @@
 3553,he's started being very particular about saying two this or two that,2,started,"4,8,5,0,0,0,5,0,0,0,0,0"
 3554,I don't think the doggie wants to write,1,don't,"0,1,3,0,0,1,0,3"
 3555,the doggie wants to write,1,wants,"0,0,1,0,3"
-3556,I think he's rather have you write,1,think,"0,1,0,3,0,3"
+3556,I think he's rather have you write,1,think,"4,0,0,5,0,0"
 3557,he's rather have you write,1,s,"4,0,3,0,3"
 3558,who did that,2,did,"0,2,0"
 3559,who did that,2,did,"0,2,0"
@@ -3757,7 +3757,7 @@
 3755,it's a restaurant where you go to eat,1,s,"4,0,0,0,0,1,0,3"
 3756,where you go to eat,1,go,"0,0,1,0,3"
 3757,yes that's a rooster,1,s,"0,4,0,0"
-3758,cock a doodle fresh what,0,None,"0,0,0"
+3758,cock a doodle fresh what,0,None,"0,0,0,0,0"
 3759,looks like the head of a cow,1,looks,"1,0,0,0,0,0,0"
 3760,what,0,None,0
 3761,what,0,None,0
@@ -4049,7 +4049,7 @@
 4047,I don't know,1,don't,"0,1,3"
 4048,what,0,None,0
 4049,where does that go,1,does,"0,1,0,3"
-4050,oh you put it together again,1,put,"0,0,1,0,0"
+4050,oh you put it together again,1,put,"0,0,1,0,0,0"
 4051,they don't really belong in there,1,don't,"0,1,0,3,0,0"
 4052,no,0,None,0
 4053,Mommy can't do it if you can't do it,1,can't,"0,7,3,0,0,0,7,3,0"
@@ -4115,7 +4115,7 @@
 4113,oh he's under your finger,1,s,"0,4,0,0,0"
 4114,write on the other side honey,1,write,"1,0,0,0,0,0"
 4115,you need a chair,1,need,"0,1,0,0"
-4116,Humpty Dumpty what,0,None,"0,0"
+4116,Humpty Dumpty what,0,None,"0,2,0"
 4117,see,1,see,1
 4118,careful,0,None,0
 4119,I don't know,1,don't,"0,1,3"
@@ -4456,7 +4456,7 @@
 4454,you put it on,1,put,"0,1,0,0"
 4455,that's a fastener,1,s,"4,0,0"
 4456,is that right,1,is,"1,0,0"
-4457,no the doggie can't wear gloves,1,can't,"0,0,7,3,0"
+4457,no the doggie can't wear gloves,1,can't,"0,0,0,7,3,0"
 4458,he doesn't have fingers,1,doesn't,"0,1,3,0"
 4459,no doggie doesn't have fingers,1,doesn't,"0,0,1,3,0"
 4460,small doggie,0,None,"0,0"
@@ -4506,7 +4506,7 @@
 4504,corn on the cob,0,None,"0,0,0,0"
 4505,take the pencil out of your mouth,1,take,"1,0,0,0,0,0,0"
 4506,you've finished your corn haven't you,1,ve,"4,8,0,0,8,0"
-4507,all gone,0,None,0
+4507,all gone,0,None,"0,8"
 4508,no,0,None,0
 4509,take the pencil out of your mouth,1,take,"1,0,0,0,0,0,0"
 4510,what is that,1,is,"0,1,0"
@@ -4544,7 +4544,7 @@
 4542,well your story books are out here aren't they,1,are,"0,0,0,0,1,0,0,1,0"
 4543,aren't they,1,aren't,"1,0"
 4544,oh you're big boy to read that,1,re,"0,4,0,0,0,3,0"
-4545,yes that's a nice story too,1,s,"0,4,0,0,0"
+4545,yes that's a nice story too,1,s,"0,4,0,0,0,0"
 4546,oh what about the kitty,0,None,"0,0,0,0,0"
 4547,that's a nice story,1,s,"4,0,0,0"
 4548,what's funny,1,s,"4,0"
@@ -5182,7 +5182,7 @@
 5180,good bye you take came,1,take,"0,0,0,1,3"
 5181,alright,0,None,0
 5182,oh don't do that,1,don't,"0,1,3,0"
-5183,my goodness,0,None,0
+5183,my goodness,0,None,"0,0"
 5184,we'll hafta have the doctor take care of my foot if you run over it with your tricycle,3,ll,"6,3,3,0,0,3,0,0,0,0,0,0,1,0,0,0,0,0"
 5185,if you run over it with your tricycle,1,run,"0,0,1,0,0,0,0,0"
 5186,doctor yes,0,None,"0,0"
@@ -5259,7 +5259,7 @@
 5257,what happened,2,happened,"0,2"
 5258,don't fell down,1,don't,"1,2,0"
 5259,what doctor are you going to,1,are,"0,0,1,0,5,0"
-5260,do you think you car ride like that Adam,1,do,"1,0,3,0,0,1,0,0"
+5260,do you think you car ride like that Adam,1,do,"1,0,3,0,0,1,0,0,0"
 5261,you car ride like that Adam,1,ride,"0,0,1,0,0,0"
 5262,you're going to fix the tricycle,3,re going to,"4,5,0,3,0,0"
 5263,mhm,0,None,0
@@ -5551,7 +5551,7 @@
 5549,down in your tummy,0,None,"0,0,0,0"
 5550,oh it travels fast doesn't it,1,travels,"0,0,1,0,1,0"
 5551,doesn't it,1,doesn't,"1,0"
-5552,poor Humpty Dumpty,0,None,"0,0"
+5552,poor Humpty Dumpty,0,None,"0,1,0,2,0"
 5553,what's he doing now,1,s,"4,0,5,0"
 5554,he's jumping,1,s,"4,5"
 5555,those are shoes,1,are,"0,1,0"
@@ -5725,7 +5725,7 @@
 5723,it's not time,1,s,"4,0,0"
 5724,are you tired,1,are,"1,0,0"
 5725,you are,1,are,"0,1"
-5726,oh my goodness,0,None,0
+5726,oh my goodness,0,None,"0,0,0"
 5727,it's terribly early in the morning to be so tired,1,s,"4,0,0,0,0,0,0,3,0,0"
 5728,no,0,None,0
 5729,well what do you want her to do with it,1,do,"0,0,1,0,3,0,0,3,0,0"
@@ -5907,10 +5907,10 @@
 5905,no Adam we don't leave the television set on,1,don't,"0,0,0,1,3,0,0,0,0"
 5906,they're all gone until tomorrow,1,re,"4,0,8,0,0"
 5907,they're all rolled up on some tape somewhere,1,re,"4,0,8,0,0,0,0,0"
-5908,dum dum,0,None,0
+5908,dum dum,0,None,"0,0"
 5909,what is that,1,is,"0,1,0"
-5910,dum dum what,0,None,"0,0"
-5911,dum dum doggie,0,None,"0,0"
+5910,dum dum what,0,None,"0,0,0"
+5911,dum dum doggie,0,None,"0,0,0"
 5912,careful Adam,0,None,"0,0"
 5913,what,0,None,0
 5914,roping me,0,None,"5,0"
@@ -6087,7 +6087,7 @@
 6085,you better put those back up on the desk,1,put,"0,0,1,0,0,0,0,0,0"
 6086,those are Daddy's glasses,1,are,"1,0,0,0"
 6087,no don't swing it,1,don't,"0,1,3,0"
-6088,you may break it dear,1,may,"0,7,3,0"
+6088,you may break it dear,1,may,"0,7,3,0,0"
 6089,yes I see it swinging but don't swing it,1,see,"0,0,1,0,5,0,1,3,0"
 6090,but don't swing it,1,don't,"0,1,3,0"
 6091,bring them here and I'll show you how you use them,1,bring,"1,0,0,0,6,3,0,0,0,1,0"
@@ -7084,7 +7084,7 @@
 7082,Adam no,0,None,"0,0"
 7083,you scoot,0,None,"0,0"
 7084,Adam no,0,None,"0,0"
-7085,did you tell Urs about that lion that was in your bed last night,2,did,"2,0,3,0,0,0,0,2,0,0,0,0,0"
+7085,did you tell Urs about that lion that was in your bed last night,2,did,"2,0,3,0,0,0,0,0,2,0,0,0,0,0"
 7086,that was in your bed last night,2,was,"0,2,0,0,0,0,0"
 7087,I think you broke it,1,think,"0,1,0,2,0"
 7088,you broke it,2,broke,"0,2,0"
@@ -7210,7 +7210,7 @@
 7208,she has a blue one too,1,has,"0,1,0,0,0,0"
 7209,what's Urs doing,1,s,"4,0,5"
 7210,in what,0,None,"0,0"
-7211,rock a bye Urs,0,None,"0,0"
+7211,rock a bye Urs,0,None,"1,0,0,0"
 7212,where's the moon,1,s,"4,0,0"
 7213,are you cold,1,are,"1,0,0"
 7214,yes but you shouldn't hit that should you,1,shouldn't,"0,0,0,7,3,0,7,0"
@@ -7337,7 +7337,7 @@
 7335,what did you do,2,did,"0,2,0,3"
 7336,I guess it is Shadow Gay the horse's name again,1,guess,"0,1,0,1,0,0,0,0,0,0"
 7337,it is Shadow Gay the horse's name again,1,is,"0,1,0,0,0,0,0,0"
-7338,Shadow Gay a horse,0,None,"0,0,0"
+7338,Shadow Gay a horse,0,None,"0,0,0,0"
 7339,why did you get such a soft pillow to put your head on,2,did,"0,2,0,3,0,0,0,0,0,3,0,0,0"
 7340,what are you doing,1,are,"0,1,0,5"
 7341,he watches Miss Jean,1,watches,"0,1,0,0"
@@ -7379,7 +7379,7 @@
 7377,paint,0,None,0
 7378,what,0,None,0
 7379,shadow,0,None,0
-7380,Shadow Gay,0,None,0
+7380,Shadow Gay,0,None,"0,0"
 7381,shadow what,0,None,"0,0"
 7382,what happens when you brush him,1,happens,"0,1,0,0,1,0"
 7383,when you brush him,1,brush,"0,0,1,0"
@@ -7773,7 +7773,7 @@
 7771,I don't know,1,don't,"0,1,3"
 7772,I don't know,1,don't,"0,1,3"
 7773,that's his tongue,1,s,"4,0,0"
-7774,that's a mailbox and you can mail your penny in it,1,s,"4,0,0,0,0,0,7,3,0,0,0,0"
+7774,that's a mailbox and you can mail your penny in it,1,s,"4,0,0,0,0,7,3,0,0,0,0"
 7775,and you can mail your penny in it,1,can,"0,0,7,3,0,0,0,0"
 7776,don't be so rough,1,don't,"1,3,0,0"
 7777,over on the bench,0,None,"0,0,0,0"
@@ -7798,7 +7798,7 @@
 7796,the mail goes in up there yes,1,goes,"0,0,1,0,0,0,0"
 7797,the postman comes and takes it out and puts it in a big bag,1,comes,"0,0,1,0,1,0,0,0,1,0,0,0,0,0"
 7798,and takes it out and puts it in a big bag,1,takes,"0,1,0,0,0,1,0,0,0,0,0"
-7799,and puts it in a big bag,1,puts,"0,1,0,0,0,0"
+7799,and puts it in a big bag,1,puts,"0,1,0,0,0,0,0"
 7800,I don't know,1,don't,"0,1,3"
 7801,maybe it's there,1,s,"0,4,0"
 7802,we'll pretend that's the caboose,3,ll,"7,3,4,0,0"
