@@ -1789,7 +1789,7 @@
 1787,here a hammer,0,None,"0,0,0"
 1788,oh that's not a hammer,1,s,"0,4,0,0,0"
 1789,what's that on it,1,s,"4,0,0,0"
-1790,oh Chicken Little,0,None,"0,0"
+1790,oh Chicken Little,0,None,"0,0,0"
 1791,where did you see Chicken Little,2,did,"0,2,0,3,0,0"
 1792,did you tell Mr Cromer what that was,2,did,"2,0,3,0,0,0,0,2"
 1793,what that was,2,was,"0,0,2"
@@ -1913,7 +1913,7 @@
 1911,that's a porcupine,1,s,"4,0,0"
 1912,that's a knife now,1,s,"4,0,0,0"
 1913,what does the knife do,1,does,"0,1,0,0,0"
-1914,cock a doodle doo,0,None,0
+1914,cock a doodle doo,0,None,"0,0,0,0"
 1915,who says cock a doodle doo,1,says,"0,1,0,0,0,0"
 1916,who is that,1,is,"0,1,0"
 1917,that's a monkey,1,s,"4,0,0"
@@ -2014,7 +2014,7 @@
 2012,what are those,1,are,"0,1,0"
 2013,corn,0,None,0
 2014,what's this,1,s,"4,0"
-2015,Chicken Little,0,None,0
+2015,Chicken Little,0,None,"0,0"
 2016,that's not Chicken Little,1,s,"4,0,0,0"
 2017,apple cider,0,None,"0,0"
 2018,what's that,1,s,"4,0"
@@ -2120,7 +2120,7 @@
 2118,you're going to put it together,1,re,"4,5,0,3,0,0"
 2119,what are you going to do now,1,are,"0,1,0,5,0,3,0"
 2120,oh you dropped your mitten,2,dropped,"0,0,2,0,0"
-2121,sleeping in the bed,0,None,"0,0"
+2121,sleeping in the bed,0,None,"5,0,0,0"
 2122,Adam don't put that back there,1,don't,"0,1,3,0,0,0"
 2123,take your wrench out,1,take,"1,0,0,0"
 2124,wrench,0,None,0
@@ -2860,7 +2860,7 @@
 2858,wheels in the air,0,None,"0,0,0,0"
 2859,now what do you hafta do,1,do,"0,0,1,0,3,3"
 2860,trash truck broken,0,None,"0,0,0"
-2861,what kind of truck is broken,1,is,"0,7,0,3,1,0,0"
+2861,what kind of truck is broken,1,is,"0,0,0,0,1,0"
 2862,this truck,0,None,"0,0"
 2863,you hafta take one off to put it on,1,hafta,"0,1,3,0,0,0,3,0,0"
 2864,on,0,None,0
@@ -3118,7 +3118,7 @@
 3116,you haven't see it for a long time,1,haven't,"0,4,1,0,0,0,0,0"
 3117,it's too big,1,s,"4,0,0"
 3118,you wanna ride that,1,wanna,"0,1,3,0"
-3119,Adam will you say excuse me please,3,will,"0,9,3,1,0,0"
+3119,Adam will you say excuse me please,3,will,"0,9,0,3,1,0,0"
 3120,try it now,1,try,"1,0,0"
 3121,I just closed the door,2,closed,"0,0,2,0,0"
 3122,no you don't want it open,1,don't,"0,0,1,3,0,0"
@@ -3555,7 +3555,7 @@
 3553,he's started being very particular about saying two this or two that,2,started,"4,8,5,0,0,0,5,0,0,0,0,0"
 3554,I don't think the doggie wants to write,1,don't,"0,1,3,0,0,1,0,3"
 3555,the doggie wants to write,1,wants,"0,0,1,0,3"
-3556,I think he's rather have you write,1,think,"4,0,0,5,0,0"
+3556,I think he's rather have you write,1,think,"0,1,4,0,3,0,3"
 3557,he's rather have you write,1,s,"4,0,3,0,3"
 3558,who did that,2,did,"0,2,0"
 3559,who did that,2,did,"0,2,0"
@@ -3636,7 +3636,7 @@
 3634,wheel,0,None,0
 3635,what's that,1,s,"4,0"
 3636,duck,0,None,0
-3637,that's the bear riding a unicycle,1,s,"4,0,5,0,0"
+3637,that's the bear riding a unicycle,1,s,"4,0,0,5,0,0"
 3638,Ursula what,0,None,"0,0"
 3639,what,0,None,0
 3640,still there,0,None,"0,0"
@@ -4182,7 +4182,7 @@
 4180,you'll fall and hurt yourself,3,ll,"6,3,0,3,0"
 4181,you're tires,1,re,"4,0"
 4182,oh I thought you were tired,2,thought,"0,0,2,0,2,0"
-4183,you were tired,2,were,"0,2"
+4183,you were tired,2,were,"0,2,0"
 4184,see,0,None,0
 4185,what happened,2,happened,"0,2"
 4186,what happened,2,happened,"0,2"
@@ -5551,7 +5551,7 @@
 5549,down in your tummy,0,None,"0,0,0,0"
 5550,oh it travels fast doesn't it,1,travels,"0,0,1,0,1,0"
 5551,doesn't it,1,doesn't,"1,0"
-5552,poor Humpty Dumpty,0,None,"0,1,0,2,0"
+5552,poor Humpty Dumpty,0,None,"0,0,0"
 5553,what's he doing now,1,s,"4,0,5,0"
 5554,he's jumping,1,s,"4,5"
 5555,those are shoes,1,are,"0,1,0"
@@ -5559,7 +5559,7 @@
 5557,I was just going to pull it out,2,was,"0,2,0,5,0,3,0,0"
 5558,oh no,0,None,"0,0"
 5559,I was just straightening it out,2,was,"0,2,0,5,0,0"
-5560,poor Humpty Dumpty,0,None,"0,0"
+5560,poor Humpty Dumpty,0,None,"0,0,0"
 5561,what happened to Humpty Dumpty,2,happened,"0,2,0,0,0"
 5562,he broke,2,broke,"0,2"
 5563,how did he break,2,did,"0,2,0,3"
@@ -5604,7 +5604,7 @@
 5602,is that what you said,1,is,"1,0,0,0,2"
 5603,what you said,2,said,"0,0,2"
 5604,what,0,None,0
-5605,I guess he meant behind,1,guess,"0,0,2,0"
+5605,I guess he meant behind,1,guess,"0,1,0,2,0"
 5606,he meant behind,2,meant,"0,2,0"
 5607,I think he said slowly,1,think,"0,1,0,2,0"
 5608,he said slowly,2,said,"0,2,0"
@@ -5714,7 +5714,7 @@
 5712,what came from that,2,came,"0,2,0,0"
 5713,the tape was in that box,2,was,"0,0,2,0,0,0"
 5714,why don't you give Urs the box,1,don't,"0,1,0,3,0,0,0"
-5715,she'll need it to put the tape in,3,ll,"6,3,0,3,0,0,0"
+5715,she'll need it to put the tape in,3,ll,"6,3,0,0,3,0,0,0"
 5716,yes when she goes home she'll needta put the tape in the box,1,goes,"1,0,0,1,0,6,3,3,0,0,0,0,0"
 5717,she'll needta put the tape in the box,3,ll,"6,3,3,0,0,0,0,0"
 5718,yes,0,None,0
@@ -6411,7 +6411,7 @@
 6409,you don't wanna remember,1,don't,"0,1,3,3"
 6410,baseball,0,None,0
 6411,baseball,0,None,0
-6412,you stepped on your cowboy hat,2,stepped,"0,2,0,0,0"
+6412,you stepped on your cowboy hat,2,stepped,"0,2,0,0,0,0"
 6413,be careful,1,be,"3,0"
 6414,here it is,1,is,"0,0,1"
 6415,what happened,2,happened,"0,2"
@@ -6429,7 +6429,7 @@
 6427,how do you know that's coffee,1,do,"0,1,0,3,4,0"
 6428,that's coffee,1,s,"4,0"
 6429,what are you writing,1,are,"0,1,0,5"
-6430,Captain Kangaroo,0,None,0
+6430,Captain Kangaroo,0,None,"0,0"
 6431,what does Captain Kangaroo write,1,does,"0,1,0,0,3"
 6432,oh he writes with a pencil,1,writes,"0,0,1,0,0,0"
 6433,what,0,None,0
@@ -6602,7 +6602,7 @@
 6600,you don't know how much he wants,1,don't,"0,1,3,0,0,0,1"
 6601,how much he wants,1,wants,"0,0,0,1"
 6602,okay,0,None,0
-6603,do you want  ask Urs if she wants some,1,want,"1,0,3,3,0,0,0,3,0"
+6603,do you want ask Urs if she wants some,1,want,"1,0,3,3,0,0,0,3,0"
 6604,ask Urs if she wants some,1,ask,"1,0,0,0,1,0"
 6605,if she wants some,1,wants,"0,0,1,0"
 6606,no she said one,2,said,"0,0,2,0"
